@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!  I'm Crissy 👋
 
 <!--
 **crissymae/crissymae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As a Data Scientist seasoned in marketing analysis and project management, I bring strong critical thinking, sharp focus on meeting goals and high aptitude to work well in teams. I experience great personal fulfillment in identifying problems and finding solutions, so I instinctively identify these opportunities in my everyday life. 
+
+I have led teams to create a better customer user experience, reduced project costs by $125K and realized an ROI of 1800% on a win-back marketing campaign. 
+
+With my attention to detail, hunger for learning, and ability to communicate to technical and non-technical audiences, I help companies interpret valuable data to create actionable plans to help achieve/exceed company goals.
